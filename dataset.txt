@@ -1,0 +1,84 @@
+0,Orthopaedic Surgeon
+1,Homeopathy
+2,ENT Surgeon
+3,General Surgeon
+4,Physiotherapist
+5,Pace Maker Analysis
+6,Dermatologist
+7,Core Stability Class / Pilates Class
+8,Neurologist
+9,Sports Medicine
+10,Paediatrician
+11,Gynaecologist
+12,Consultant Laparoscopic and Upper GI/Bariatric Surgeon
+13,Medical Tattooist
+14,Endocrinologist
+15,Gastroenterologist
+16,Orthopaedic Surgeon (paediatric)
+17,Psychology assistant
+18,Internal Medicine & respiratory Physician
+19,A.M.E.
+20,Cardiologist
+21,Rheumatologist
+22,Psychotherapist
+23,Psychotherapist / Social Worker
+24,Ophthalmologist
+25,Massage Therapist
+26,Cosmetic & Plastic Surgeon
+27,Oncologist
+28,Food Intolerance Testing
+29,Urologist
+30,Cardiac Surgeon
+31,Respiratory Physician
+32,FUE Clinic
+33,Psychiatrist
+34,GU Specialist
+35,Counselling Psychologist
+36,Pain Clinic
+37,Psychologist
+38,Paediatric Surgeon
+39,Paediatric Ophthalmologist
+40,Podiatrist
+41,Dentist
+42,Diabetic
+43,Hair Transplant Clinic
+44,Incontinence
+45,Radiology
+46,Sleep Apnea
+47,Physician
+48,Nutritionist
+49,Counsellor
+50,Acupuncture & Massotherapy
+51,Child Play Therapist
+52,Nephrologist
+53,Geriatrician
+54,Optometrist
+55,Cardiac Surgeon/Vein Clinic
+56,Mental Health
+57,General Practitioner
+58,Gastroenterologist / Hepatologist
+59,Reflexology and Massage
+60,Quantum Healing Hypnosis / Crystal & Universal Energy Therapy
+61,Paediatrician / Paediatric Cardiologist
+62,Hypnotherapist
+63,Life Alignment
+64,Medicals
+65,ENT Specialist
+66,Speech and Language Pathologist
+67,Sclerotherapy
+68,4D, Obs & Gynae U/S Specialist
+69,Psychologist (incl. children & adolescents)
+70,Stress Specialist
+71,Podologist
+72,Reiki
+73,Obstetrics, Gynaecology & Infertility
+74,Acupuncture
+75,Orthoptist
+76,Acupuncture & Homepathy
+77,Myofascial Release Massage
+78,immunotherapy & respiratory diseases adults/paed.
+79,
+80,Clinical Psychologist & family therapist
+81,CBT Therapist
+82,Consultant Physician,Diabetologist and Endocrinologist
+83,Reflexologist

@@ -1,0 +1,7 @@
+0,Sunday,0
+1,Monday,10
+2,Tuesday,5
+3,Wednesday,8
+4,Thursday,6
+5,Friday,7
+6,Saturday,9

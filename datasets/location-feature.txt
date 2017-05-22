@@ -1,0 +1,4 @@
+0,Sliema,14
+1,Burmarrad,5
+2,Zabbar,8
+3,Zebbug,5

@@ -1,0 +1,83 @@
+0,Orthopaedic Surgeon,8
+1,Homeopathy,8
+2,ENT Surgeon,6
+3,General Surgeon,12
+4,Physiotherapist,9
+5,Pace Maker Analysis,3
+6,Dermatologist,10
+7,Core Stability Class / Pilates Class,7
+8,Neurologist,11
+9,Sports Medicine,8
+10,Paediatrician,4
+11,Gynaecologist,5
+12,Consultant Laparoscopic and Upper GI/Bariatric Surgeon,15
+13,Medical Tattooist,5
+14,Endocrinologist,16
+15,Gastroenterologist,7
+16,Orthopaedic Surgeon (paediatric),17
+17,Psychology assistant,9
+18,Internal Medicine & respiratory Physician,10
+19,A.M.E.,14
+20,Cardiologist,20
+21,Rheumatologist,15
+22,Psychotherapist,18
+23,Psychotherapist / Social Worker,8
+24,Ophthalmologist,16
+25,Massage Therapist,18
+26,Cosmetic & Plastic Surgeon,18
+27,Oncologist,19
+28,Food Intolerance Testing,4
+29,Urologist,2
+30,Cardiac Surgeon,8
+31,Respiratory Physician,3
+32,FUE Clinic,9
+33,Psychiatrist,3
+34,GU Specialist,12
+35,Counselling Psychologist,10
+36,Pain Clinic,17
+37,Psychologist,4
+38,Paediatric Surgeon,20
+39,Paediatric Ophthalmologist,11
+40,Podiatrist,12
+41,Dentist,12
+42,Diabetic,15
+43,Hair Transplant Clinic,20
+44,Incontinence,13
+45,Radiology,6
+46,Sleep Apnea,1
+47,Physician,6
+48,Nutritionist,6
+49,Counsellor,2
+50,Acupuncture & Massotherapy,14
+51,Child Play Therapist,5
+52,Nephrologist,5
+53,Geriatrician,20
+54,Optometrist,2
+55,Cardiac Surgeon/Vein Clinic,12
+56,Mental Health,16
+57,General Practitioner,8
+58,Gastroenterologist / Hepatologist,20
+59,Reflexology and Massage,19
+60,Quantum Healing Hypnosis / Crystal & Universal Energy Therapy,9
+61,Paediatrician / Paediatric Cardiologist,5
+62,Hypnotherapist,17
+63,Life Alignment,19
+64,Medicals,17
+65,ENT Specialist,1
+66,Speech and Language Pathologist,6
+67,Sclerotherapy,18
+68,4D Obs & Gynae U/S Specialist,19
+69,Psychologist (incl. children & adolescents),9
+70,Stress Specialist,12
+71,Podologist,6
+72,Reiki,19
+73,Obstetrics Gynaecology & Infertility,11
+74,Acupuncture,2
+75,Orthoptist,6
+76,Acupuncture & Homepathy,9
+77,Myofascial Release Massage,20
+78,immunotherapy & respiratory diseases adults/paed.,9
+79,Clinical Psychologist & family therapist,18
+80,CBT Therapist,7
+81,Consultant Physician Diabetologist and Endocrinologist,13
+82,Reflexologist,13

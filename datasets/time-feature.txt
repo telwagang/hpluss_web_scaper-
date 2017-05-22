@@ -1,0 +1,4 @@
+0,monring,3
+1,afternoon,5
+2,earlymorning,4
+3,evenning,3
